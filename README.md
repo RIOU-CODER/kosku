@@ -6,4 +6,4 @@
 * Shofyanto Qodaeary - 26110300016 - @shofyantoqodaery
 
 ## Deliverables
-* [D1: Topik Masalah](docs/D1_Topik_Masalah.md)
+* [D1: Topik Masalah](dock/D1_Topik_Masalah.md)
