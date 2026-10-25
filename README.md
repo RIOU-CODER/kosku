@@ -6,4 +6,4 @@
 * Shofyanto Qodaeary - 26110300016 - @shofyantoqodaery
 
 ## Deliverables
-* [D1 & D2: Topik dan Rincian Modul](docs/D1_D2_Rincian.md)
+* [D1: Topik Masalah](docs/D1_Topik_Masalah.md)
