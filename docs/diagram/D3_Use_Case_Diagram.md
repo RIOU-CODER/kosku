@@ -50,3 +50,4 @@ UC5 .> UC6 : <<include>>
 UC10 .> UC4 : <<extend>>
 
 @enduml
+```
