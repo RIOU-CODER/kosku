@@ -1,4 +1,4 @@
-# Kosku - Sistem Manajemen Kos Berbasis Tiket
+# Kosku - Sistem Manajemen Kos 
 
 Proyek ini adalah repositori tugas Final Exam (UAS) untuk mata kuliah Software Development Fundamentals. Kosku adalah aplikasi pencatatan administrasi yang membantu pemilik kos dan penyewa mengelola tagihan sewa bulanan serta melacak status keluhan perbaikan fasilitas secara terpusat.
 
@@ -31,7 +31,8 @@ Kami menggunakan `pytest` untuk menguji fungsi kalkulasi denda keterlambatan pem
 2. Instal *framework* pengujian dengan perintah: 
    ```bash
    pip install pytest
-
+   
+```text
    /kosku_project_repo
 |
 ├── docs/
@@ -60,3 +61,4 @@ Kami menggunakan `pytest` untuk menguji fungsi kalkulasi denda keterlambatan pem
 |
 ├── ACTIVITY_LOG.md                    <-- (Catatan log aktivitas tim beserta link commit/PR)
 └── README.md                          <-- (Halaman utama berisi nama tim dan link ke semua file)
+```
