@@ -2,7 +2,7 @@
 
 Diagram ini memvisualisasikan batasan sistem dan interaksi antara aktor dengan fitur utama dalam Sistem Manajemen Lantai Gedung.
 
-![Gambar Use Case Diagram](diagram/D3_Use_Case_Diagram.png)
+![Gambar Use Case Diagram](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D3_Use_Case/Use_Case.png)
 
 **Keterangan Aktor:**
 * **Admin Kos:** Memiliki akses penuh untuk mengelola data kamar, meregistrasi penyewa baru, dan menghitung tagihan bulanan.
