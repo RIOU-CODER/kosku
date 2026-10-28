@@ -38,8 +38,8 @@ Kami menggunakan `pytest` untuk menguji fungsi kalkulasi denda keterlambatan pem
 ├── docs/
 |   ├── D1_Topic_Problem.md            <-- (Pernyataan masalah dan ruang lingkup)
 |   ├── D2_Module_Breakdown.md         <-- (Rincian 5 modul aplikasi)
-|   ├── D3_UseCase.md                  <-- (Halaman penampil tautan ke Use Case png & puml)
-|   ├── D4_Sequence.md                 <-- (Halaman penampil 5 tautan Sequence png & puml)
+|   ├── D3_UseCase.md                  <-- (Halaman penampilkan tautan ke Use Case Diagram png & puml)
+|   ├── D4_Sequence.md                 <-- (Halaman penampilkan 5 tautan Sequence Diagram png & puml)
 |   ├── D6_Test_Cases.md               <-- (Tabel 10 kasus uji)
 |   └── diagram/                        
 |       └── D3_Use_Case
