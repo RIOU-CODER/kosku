@@ -1,0 +1,40 @@
+@startuml
+skinparam maxMessageSize 150
+
+actor Penyewa as Tenant
+participant "UI Aplikasi" as UI
+participant "Modul Pembayaran" as Billing
+database "Database" as DB
+
+Tenant -> UI: 1. Masukkan detail pembayaran (tenant_id, amount, date)
+activate UI
+
+UI -> Billing: 2. prosesPembayaran(tenant_id, amount, date)
+activate Billing
+
+Billing -> DB: 3. getTagihan(tenant_id)
+activate DB
+DB --> Billing: 4. data_tagihan (due_date, monthly_rent)
+deactivate DB
+
+alt Pembayaran Valid (Nominal Sesuai)
+    Billing -> Billing: 5. calculate_late_fee(due_date, date, monthly_rent)
+    activate Billing
+    deactivate Billing
+    
+    Billing -> DB: 6. updateStatusPembayaran("Lunas")
+    activate DB
+    DB --> Billing: 7. success_response
+    deactivate DB
+    
+    Billing --> UI: 8. status="Pembayaran Berhasil"
+    UI --> Tenant: 9. Tampilkan "Pembayaran Berhasil" & Unduh Struk
+    
+else Pembayaran Tidak Valid (Nominal Kurang)
+    Billing --> UI: 10. error="Nominal Pembayaran Kurang"
+    UI --> Tenant: 11. Tampilkan Pesan Error
+end
+
+deactivate Billing
+deactivate UI
+@enduml
