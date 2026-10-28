@@ -1,6 +1,6 @@
 # D3: Use Case Diagram
 
-Diagram ini memvisualisasikan batasan sistem dan interaksi antara aktor dengan fitur utama dalam Sistem Manajemen Lantai Gedung.
+Diagram ini memvisualisasikan batasan sistem dan interaksi antara aktor dengan fitur utama dalam Sistem Manajemen Kos.
 
 [Gambar Use Case Diagram](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D3_Use_Case/Use_Case.png)
 
