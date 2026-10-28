@@ -15,11 +15,11 @@ Proyek ini adalah repositori tugas Final Exam (UAS) untuk mata kuliah Software D
 
 ## 📂 Daftar Kiriman (Deliverables)
 Berikut adalah tautan menuju seluruh dokumen rancangan sistem dan kode pengujian kami:
-* [D1: Topic & Problem Statement](docs/D1_Topic_Problem.md)
-* [D2: Module Breakdown](docs/D2_Module_Breakdown.md)
-* [D3: Use Case Diagram](docs/D3_UseCase.md)
-* [D4: Sequence Diagrams](docs/D4_Sequence.md)
-* [D5: Activity Log](ACTIVITY_LOG.md)
+* [D1_Topik_Masalah.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/D1_Topik_Masalah.md)
+* [D2_Rincian_Modul.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md)
+* [D3_Use_Case_Diagram.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/D3_Use_Case_Diagram.md)
+* [D4_Sequence_Diagrams.md](docs/D4_Sequence.md)
+* [D5: Activity Log](https://github.com/RIOU-CODER/kosku/blob/main/ACTIVITY_LOG.md)
 * [D6: Test Case Design](docs/D6_Test_Cases.md)
 * [D7: Unit-Tested Code](src/billing.py)
 
@@ -42,18 +42,20 @@ Kami menggunakan `pytest` untuk menguji fungsi kalkulasi denda keterlambatan pem
 |   ├── D4_Sequence.md                 <-- (Halaman penampil 3 tautan Sequence png)
 |   ├── D6_Test_Cases.md               <-- (Tabel 10 kasus uji)
 |   └── diagram/                        
-|       ├── usecase.puml               <-- (Kode sumber D3)
-|       ├── usecase.png                <-- (Gambar hasil D3)
-|       ├── seq_Alur_Autentikasi.puml        <-- (Kode sumber D4 - Skenario 1)
-|       ├── seq_Alur_Autentikasi.png         <-- (Gambar hasil D4 - Skenario 1)
-|       ├── seq_Alur_Management_Kamar.puml           <-- (Kode sumber D4 - Skenario 2)
-|       ├── seq_Alur_Management_Kamar.png            <-- (Gambar hasil D4 - Skenario 2)
-|       ├── seq_Alur_Tagihan_Pembayaran.puml         <-- (Kode sumber D4 - Skenario 3)
-|       ├── seq_Alur_Tagihan_Pembayaran.png          <-- (Gambar hasil D4 - Skenario 3)
-|       ├── seq_Alur_Tiket_Keluhan.puml         <-- (Kode sumber D4 - Skenario 4)
-|       ├── seq_Alur_Tiket_Keluhan.png          <-- (Gambar hasil D4 - Skenario 4)
-|       ├── seq_Alur_Notifikasi.puml         <-- (Kode sumber D4 - Skenario 5)
-|       └── seq_Alur_Notifikasi.png          <-- (Gambar hasil D4 - Skenario 5)
+|       └── D3_Use_Case
+            ├── usecase.puml               <-- (Kode sumber D3)
+|           └── usecase.png                <-- (Gambar hasil D3)
+        └── D4_Sequence_Diagram
+|           ├── seq_Alur_Autentikasi.puml             <-- (Kode sumber D4 - Skenario 1)
+|           ├── seq_Alur_Autentikasi.png              <-- (Gambar hasil D4 - Skenario 1)
+|           ├── seq_Alur_Management_Kamar.puml        <-- (Kode sumber D4 - Skenario 2)
+|           ├── seq_Alur_Management_Kamar.png         <-- (Gambar hasil D4 - Skenario 2)
+|           ├── seq_Alur_Tagihan_Pembayaran.puml      <-- (Kode sumber D4 - Skenario 3)
+|           ├── seq_Alur_Tagihan_Pembayaran.png       <-- (Gambar hasil D4 - Skenario 3)
+|           ├── seq_Alur_Tiket_Keluhan.puml           <-- (Kode sumber D4 - Skenario 4)
+|           ├── seq_Alur_Tiket_Keluhan.png            <-- (Gambar hasil D4 - Skenario 4)
+|           ├── seq_Alur_Notifikasi.puml              <-- (Kode sumber D4 - Skenario 5)
+|           └── seq_Alur_Notifikasi.png               <-- (Gambar hasil D4 - Skenario 5)
 |
 ├── src/
 |   ├── billing.py                     <-- (Kode implementasi fungsi D7)
