@@ -1,0 +1,21 @@
+@startuml
+autonumber
+actor Tenant
+participant "UI (Mobile App)" as UI
+participant "Auth Module" as Auth
+participant "Room Management" as Room
+participant "Complaint Ticketing" as Complaint
+participant "Notification Module" as Notification
+
+Tenant -> UI: Input keluhan (judul, deskripsi, foto & no. kamar)
+UI -> Auth: Verifikasi Sesi/Identitas Tenant
+Auth --> UI: Token/Sesi Valid
+UI -> Room: Validasi Nomor Kamar
+Room --> UI: Kamar Valid & Sesuai
+UI -> Complaint: createComplaint(tenantId, roomNo, description, photo)
+Complaint -> Complaint: Simpan Tiket Keluhan (Status: Pending)
+Complaint -> Notification: Trigger Kirim Notifikasi ke Pemilik
+Notification --> Complaint: Notifikasi Terkirim
+Complaint --> UI: Tiket Berhasil Dibuat
+UI --> Tenant: Tampilkan Status Tiket "Pending"
+@enduml
