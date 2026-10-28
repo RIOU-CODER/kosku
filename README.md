@@ -7,4 +7,5 @@
 
 ## Daftar isi
 * [D1: Topik Masalah](docs/D1_Topik_Masalah.md)
+* [D2_Rincian_Modul](docs/D2_Rincian_Modul.md)
 * [D6: Test Cases](docs/D6_Test_Cases.md)
