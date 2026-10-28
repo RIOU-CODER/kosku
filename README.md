@@ -15,12 +15,12 @@ Proyek ini adalah repositori tugas Final Exam (UAS) untuk mata kuliah Software D
 
 ## 📂 Daftar Kiriman (Deliverables)
 Berikut adalah tautan menuju seluruh dokumen rancangan sistem dan kode pengujian kami:
-* [D1_Topik_Masalah.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/D1_Topik_Masalah.md)
-* [D2_Rincian_Modul.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md)
-* [D3_Use_Case_Diagram.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/D3_Use_Case_Diagram.md)
-* [D4_Sequence_Diagrams.md](docs/D4_Sequence.md)
+* [D1: Topik_Masalah](https://github.com/RIOU-CODER/kosku/blob/main/docs/D1_Topik_Masalah.md)
+* [D2: Rincian_Modul](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md)
+* [D3: Use_Case_Diagram](https://github.com/RIOU-CODER/kosku/blob/main/docs/D3_Use_Case_Diagram.md)
+* [D4: Sequence_Diagrams](docs/D4_Sequence.md)
 * [D5: Activity Log](https://github.com/RIOU-CODER/kosku/blob/main/ACTIVITY_LOG.md)
-* [D6: Test Case Design](docs/D6_Test_Cases.md)
+* [D6: Test Case Design](https://github.com/RIOU-CODER/kosku/blob/main/docs/D6_Test_Cases.md)
 * [D7: Unit-Tested Code](src/billing.py)
 
 ## 🛠️ Instruksi Menjalankan Pengujian (D7)
