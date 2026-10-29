@@ -1,6 +1,6 @@
 # Peta Hubungan Antar Modul
 
-Sistem Kosku dibagi menjadi 5 modul sesuai [D2: Module Breakdown](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md). Setiap modul punya satu dokumen yang berisi *tanggung jawab, **isi (data & aturan), **hubungan dengan modul lain, dan **alasan pengelompokan*.
+Sistem Kosku dibagi menjadi 5 modul sesuai [D2: Module Breakdown](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md). Setiap modul punya satu dokumen yang berisi tanggung jawab, isi (data & aturan), hubungan dengan modul lain, dan alasan pengelompokan.
 
 | No | Modul | Dokumen | Use case terkait (D3) |
 | :-- | :--- | :--- | :--- |
