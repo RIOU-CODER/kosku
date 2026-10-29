@@ -2,9 +2,9 @@
 
 Satu diagram use case yang mencakup seluruh Sistem Kosku. Use case dikelompokkan berdasarkan 5 modul pada D2, dan seluruh aktor mengacu pada **Target Pengguna di D1**.
 
-[Use Case Diagram](diagram/D3_Use_Case/Use_Case.png)
+[Use Case Diagram](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D3_Use_Case_Diagram/D3_Use_Case.jpeg)
 
-[Lihat Kode PlantUML](diagram/D3_Use_Case/Use_Case_Diagram.puml)
+[Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D3_Use_Case_Diagram/Use_Case.puml)
 
 ## Aktor (sesuai D1)
 
