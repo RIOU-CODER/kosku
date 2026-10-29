@@ -22,9 +22,6 @@ Berikut adalah tautan menuju seluruh dokumen rancangan sistem dan kode pengujian
 * [D5: Activity Log](https://github.com/RIOU-CODER/kosku/blob/main/ACTIVITY_LOG.md)
 * [D6: Test Case Design](https://github.com/RIOU-CODER/kosku/blob/main/docs/D6_Test_Cases.md)
 * [D7: Sourcode](https://github.com/RIOU-CODER/kosku/tree/main/src)
-
-**[Peta Hubungan Antar Modul](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/README.md)**
-   Sistem dipecah menjadi 5 modul untuk menghindari tumpang tindih aturan:
   
 ## 🛠️ Instruksi Menjalankan Pengujian (D7)
 Kami menggunakan `pytest` untuk menguji fungsi kalkulasi denda keterlambatan pembayaran (`calculate_late_fee`). 
