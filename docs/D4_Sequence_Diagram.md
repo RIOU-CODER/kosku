@@ -23,12 +23,12 @@ Dokumen ini memuat 5 skenario utama dari aplikasi Kosku. Setiap skenario digamba
 ## 4. Tiket Keluhan
 * **Dikerjakan oleh:** Zafirah bintang Maya
 
-[Sequence Diagram Tiket Keluhan](assets/seq_keluhan.png)
-*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Management_Kamar.puml)*
+[Sequence Diagram Tiket Keluhan](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tiket_Keluhan.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tiket_Keluhan.puml)*
 
 ## 5. Notifikasi 
 * **Dikerjakan oleh:** Ryandra Yusuf
 
-[Sequence Diagram Notifikasi](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tiket_Keluhan.png)
-*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tiket_Keluhan.puml)*
+[Sequence Diagram Notifikasi](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Notifikasi.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Notifikasi.puml)*
 
