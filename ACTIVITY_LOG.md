@@ -1,7 +1,7 @@
 | Date | Member | Deliverable | What was done | Time spent | Commit |
 |---|---|---|---|---|---|
 | 23 Oct 2026 | Ryandra Yusuf (@RIOU-CODER) |  | Set up repo & Update readme | - | [cb354d8](https://github.com/RIOU-CODER/kosku/commit/cb354d89a4ae344bb2d5495ddeaac9cbede5eadb) [5a631b2](https://github.com/RIOU-CODER/kosku/commit/5a631b22e2ad3bae9149d2132662b0cdc5940863) |
-| 23 Oct 2026 | Shofyanto Qodaery (@shofyantoqodaery) |  | Create ACTIVITY_LOG.md | - | [d214d73](https://github.com/RIOU-CODER/kosku/commit/d214d73a59a0b456aade7a759ece7bfbf44f4c22) |
+| 23 Oct 2026 | Shofyanto Qodaery (@shofyantoqodaery) |  | Create ACTIVITY_LOG.md | 10 Min | [d214d73](https://github.com/RIOU-CODER/kosku/commit/d214d73a59a0b456aade7a759ece7bfbf44f4c22) |
 | 24 Oct 2026 | Shofyanto Qodaery (@shofyantoqodaery) | D6 | Create D6_Test_Case.md | - | [8760cf3](https://github.com/RIOU-CODER/kosku/commit/8760cf344847f1f91e8f3d0f8d386b1675a5e632) |
 | 24 Oct 2026 | Shofyanto Qodaery (@shofyantoqodaery) | D7 | Create billing.py | - | [0530533](https://github.com/RIOU-CODER/kosku/commit/0530533b68aba4966629941136cb3b5e4cb376ea) |
 | 25 Oct 2026 | Ryandra Yusuf (@RIOU-CODER) |  | Update Readme | - | [3207ee6](https://github.com/RIOU-CODER/kosku/commit/3207ee69ae3b04cf1553b732764a5442a3bc1a9e) |
