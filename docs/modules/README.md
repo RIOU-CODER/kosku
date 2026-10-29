@@ -1,14 +1,14 @@
 # Peta Hubungan Antar Modul
 
-Sistem Kosku dibagi menjadi 5 modul sesuai [D2: Rincian Modul](../D2_Rincian_Modul.md). Setiap modul punya satu dokumen yang berisi *tanggung jawab, **isi (data & aturan), **hubungan dengan modul lain, dan **alasan pengelompokan*.
+Sistem Kosku dibagi menjadi 5 modul sesuai [D2: Rincian Modul](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md). Setiap modul punya satu dokumen yang berisi *tanggung jawab, **isi (data & aturan), **hubungan dengan modul lain, dan **alasan pengelompokan*.
 
 | No | Modul | Dokumen | Use case terkait (D3) |
 | :-- | :--- | :--- | :--- |
-| 1 | Autentikasi | [01_Autentikasi.md](01_Autentikasi.md) | UC-01, UC-02 |
-| 2 | Manajemen Kamar | [02_Manajemen_Kamar.md](02_Manajemen_Kamar.md) | UC-03, UC-04, UC-05 |
-| 3 | Tagihan & Pembayaran | [03_Tagihan_Pembayaran.md](03_Tagihan_Pembayaran.md) | UC-06 s.d. UC-11 |
-| 4 | Tiket Keluhan | [04_Tiket_Keluhan.md](04_Tiket_Keluhan.md) | UC-12 s.d. UC-16 |
-| 5 | Notifikasi | [05_Notifikasi.md](05_Notifikasi.md) | UC-17, UC-18 |
+| 1 | Autentikasi | [01_Autentikasi.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/1.Autentikasi.md) | UC-01, UC-02 |
+| 2 | Manajemen Kamar | [02_Manajemen_Kamar.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/2.Manajemen_Kamar.md) | UC-03, UC-04, UC-05 |
+| 3 | Tagihan & Pembayaran | [03_Tagihan_Pembayaran.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/3.Tagihan_Pembayaran.md) | UC-06 s.d. UC-11 |
+| 4 | Tiket Keluhan | [04_Tiket_Keluhan.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/4.Tiket_Keluhan.md) | UC-12 s.d. UC-16 |
+| 5 | Notifikasi | [05_Notifikasi.md](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/5.Notifikasi.md) | UC-17, UC-18 |
 
 ## Diagram Ketergantungan
 
