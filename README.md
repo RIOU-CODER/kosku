@@ -57,7 +57,7 @@ Semua keluaran diagram, kasus uji, dan logika kode telah kami tinjau secara manu
 |   └── diagram/                        
 |       └── D3_Use_Case
             ├── usecase.puml               <-- (Kode sumber D3)
-|           └── usecase.png                <-- (Gambar hasil D3)
+|           └── usecase.jpeg                <-- (Gambar hasil D3)
         └── D4_Sequence_Diagram
 |           ├── seq_Alur_Autentikasi.puml             <-- (Kode sumber D4 - Skenario 1)
 |           ├── seq_Alur_Autentikasi.png              <-- (Gambar hasil D4 - Skenario 1)
@@ -71,6 +71,7 @@ Semua keluaran diagram, kasus uji, dan logika kode telah kami tinjau secara manu
 |           └── seq_Alur_Notifikasi.png               <-- (Gambar hasil D4 - Skenario 5)
 |
 ├── src/
+    ├── Hasil_code_pytest.png          <-- (Gambar hasil dari code yang di test)
 |   ├── billing.py                     <-- (Kode implementasi fungsi D7)
 |   └── test_billing.py                <-- (Kode unit test menggunakan pytest D7)
 |
