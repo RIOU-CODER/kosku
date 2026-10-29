@@ -71,7 +71,7 @@ Semua keluaran diagram, kasus uji, dan logika kode telah kami tinjau secara manu
 |       ├── 2.Manajemen_Kamar.md        <-- (Penjelasan tentang module 2)
 |       ├── 3.Tagihan_Pembayaran.md     <-- (Penjelasan tentang module 3)
 |       ├── 4.Tiket_Keluhan.md          <-- (Penjelasan tentang module 4)
-|       ├── 5.Notifikasi.md             <-- (Penjelasan tentang module 5)
+|       └── 5.Notifikasi.md             <-- (Penjelasan tentang module 5)
 |
 ├── src/
 |   ├── Hasil_code_pytest.png          <-- (Gambar hasil dari code yang di test)
