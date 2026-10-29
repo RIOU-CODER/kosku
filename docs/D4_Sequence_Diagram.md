@@ -2,23 +2,33 @@
 
 Dokumen ini memuat 5 skenario utama dari aplikasi Kosku. Setiap skenario digambarkan melalui *Sequence Diagram* yang mencakup interaksi antara aktor, antarmuka pengguna (UI), modul sistem, basis data, beserta alur alternatif penanganan kesalahannya.
 
-## 1. Penyewa Membayar Sewa Bulanan
+## 1. Autentikasi 
 * **Dikerjakan oleh:** Ryandra Yusuf
-* **Alasan Pentingnya Skenario:** Skenario ini sangat krusial karena mencatat arus kas utama operasional kos dan memvalidasi nominal transaksi secara sistem, sehingga memastikan tidak ada pembayaran yang terlewat atau kurang dari jumlah tagihan[cite: 4].
 
-![Sequence Diagram Autentikasi](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Autentikasi.png)
-*(Catatan: Kode sumber PlantUML tersimpan di `assets/seq_pembayaran.puml`)*
+[Sequence Diagram Autentikasi](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Autentikasi.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Autentikasi.puml)*
 
-## 2. Penyewa Mengajukan Keluhan Perbaikan
+## 2. Manajemen Kamar
+* **Dikerjakan oleh:** Ryandra Yusuf
+
+[Sequence Diagram Manajemen Kamar](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Management_kamar.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Management_Kamar.puml)*
+
+## 3. Tagihan & Pembayaran
 * **Dikerjakan oleh:** Shofyanto Qodaery
-* **Alasan Pentingnya Skenario:** Skenario ini mengubah proses pelaporan kerusakan dari sekadar pesan obrolan WhatsApp yang mudah tenggelam menjadi sistem tiket resmi yang terstruktur[cite: 4]. Hal ini memastikan setiap keluhan dapat dilacak status pengerjaannya oleh penyewa dan pemilik.
 
-![Sequence Diagram Keluhan](assets/seq_keluhan.png)
-*(Catatan: Kode sumber PlantUML tersimpan di `assets/seq_keluhan.puml`)*
+[Sequence Diagram Tagihan & Pembayaran](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tagihan_Pembayaran.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tagihan_Pembayaran.puml)*
 
-## 3. Pemilik Mengirim Pengingat Tagihan
-* **Dikerjakan oleh:** zafirah Bintang Maya
-* **Alasan Pentingnya Skenario:** Skenario ini mengotomatiskan tugas penagihan manual berdasarkan batas waktu (*due date*) pembayaran[cite: 4]. Dengan fitur ini, risiko penunggakan dapat dikurangi karena sistem akan mengirimkan pengingat secara tepat waktu kepada penyewa yang belum lunas.
+## 4. Tiket Keluhan
+* **Dikerjakan oleh:** Zafirah bintang Maya
 
-![Sequence Diagram Pengingat](assets/seq_pengingat.png)
-*(Catatan: Kode sumber PlantUML tersimpan di `assets/seq_pengingat.puml`)*
+[Sequence Diagram Tiket Keluhan](assets/seq_keluhan.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Management_Kamar.puml)*
+
+## 5. Notifikasi 
+* **Dikerjakan oleh:** Ryandra Yusuf
+
+[Sequence Diagram Notifikasi](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tiket_Keluhan.png)
+*(Catatan: Kode sumber PlantUML tersimpan [Lihat Kode PlantUML](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Tiket_Keluhan.puml)*
+
