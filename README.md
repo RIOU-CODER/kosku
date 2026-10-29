@@ -16,7 +16,7 @@ Proyek ini adalah repositori tugas Final Exam (UAS) untuk mata kuliah Software D
 ## 📂 Daftar Kiriman (Deliverables)
 Berikut adalah tautan menuju seluruh dokumen rancangan sistem dan kode pengujian kami:
 * [D1: Topik_Masalah](https://github.com/RIOU-CODER/kosku/blob/main/docs/D1_Topik_Masalah.md)
-* [D2: Rincian_Modul](https://github.com/RIOU-CODER/kosku/blob/main/docs/modules/README.md)
+* [D2: Rincian_Modul](https://github.com/RIOU-CODER/kosku/blob/main/docs/D2_Rincian_Modul.md)
 * [D3: Use_Case_Diagram](https://github.com/RIOU-CODER/kosku/blob/main/docs/D3_Use_Case_Diagram.md)
 * [D4: Sequence_Diagrams](https://github.com/RIOU-CODER/kosku/blob/main/docs/D4_Sequence_Diagram.md)
 * [D5: Activity Log](https://github.com/RIOU-CODER/kosku/blob/main/ACTIVITY_LOG.md)
