@@ -31,7 +31,17 @@ Kami menggunakan `pytest` untuk menguji fungsi kalkulasi denda keterlambatan pem
 2. Instal *framework* pengujian dengan perintah: 
    ```bash
    pip install pytest
-   
+
+
+## 🤖 Kebijakan Penggunaan AI (AI Usage Policy)
+Sesuai dengan ketentuan proyek, kami menggunakan bantuan AI dengan rincian sebagai berikut:
+
+Gemini AI: Digunakan sebagai rekan diskusi (brainstorming) untuk memecah masalah ke dalam modul-modul sistem, merancang draf logika edge cases pada tabel pengujian, serta membantu menyusun kerangka syntax dasar PlantUML untuk Sequence Diagram.
+
+Semua keluaran diagram, kasus uji, dan logika kode telah kami tinjau secara manual, direvisi, dan kami pertanggungjawabkan sepenuhnya agar sesuai dengan konteks aplikasi Kosku.
+
+
+
 ```text
    /kosku_project_repo
 |
