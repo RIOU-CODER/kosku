@@ -56,22 +56,28 @@ Semua keluaran diagram, kasus uji, dan logika kode telah kami tinjau secara manu
 |   ├── D6_Test_Cases.md               <-- (Tabel 10 kasus uji)
 |   └── diagram/                        
 |       └── D3_Use_Case
-            ├── usecase.puml               <-- (Kode sumber D3)
-|           └── usecase.jpeg                <-- (Gambar hasil D3)
-        └── D4_Sequence_Diagram
-|           ├── seq_Alur_Autentikasi.puml             <-- (Kode sumber D4 - Skenario 1)
-|           ├── seq_Alur_Autentikasi.png              <-- (Gambar hasil D4 - Skenario 1)
-|           ├── seq_Alur_Management_Kamar.puml        <-- (Kode sumber D4 - Skenario 2)
-|           ├── seq_Alur_Management_Kamar.png         <-- (Gambar hasil D4 - Skenario 2)
-|           ├── seq_Alur_Tagihan_Pembayaran.puml      <-- (Kode sumber D4 - Skenario 3)
-|           ├── seq_Alur_Tagihan_Pembayaran.png       <-- (Gambar hasil D4 - Skenario 3)
-|           ├── seq_Alur_Tiket_Keluhan.puml           <-- (Kode sumber D4 - Skenario 4)
-|           ├── seq_Alur_Tiket_Keluhan.png            <-- (Gambar hasil D4 - Skenario 4)
-|           ├── seq_Alur_Notifikasi.puml              <-- (Kode sumber D4 - Skenario 5)
-|           └── seq_Alur_Notifikasi.png               <-- (Gambar hasil D4 - Skenario 5)
+|           ├── usecase.jpeg                <-- (Gambar hasil D3)
+|           └── usecase.puml                <-- (Kode sumber D3)
+|       └── D4_Sequence_Diagram
+|           ├── Alur_Autentikasi.puml             <-- (Kode sumber D4 - Skenario 1)
+|           ├── Alur_Autentikasi.png              <-- (Gambar hasil D4 - Skenario 1)
+|           ├── Alur_Management_Kamar.puml        <-- (Kode sumber D4 - Skenario 2)
+|           ├── Alur_Management_Kamar.png         <-- (Gambar hasil D4 - Skenario 2)
+|           ├── Alur_Tagihan_Pembayaran.puml      <-- (Kode sumber D4 - Skenario 3)
+|           ├── Alur_Tagihan_Pembayaran.png       <-- (Gambar hasil D4 - Skenario 3)
+|           ├── Alur_Tiket_Keluhan.puml           <-- (Kode sumber D4 - Skenario 4)
+|           ├── Alur_Tiket_Keluhan.png            <-- (Gambar hasil D4 - Skenario 4)
+|           ├── Alur_Notifikasi.puml              <-- (Kode sumber D4 - Skenario 5)
+|           └── Alur_Notifikasi.png               <-- (Gambar hasil D4 - Skenario 5)
+|   └── modules/
+|       ├── 1.Autentikasi.md            <-- (Penjelasan tentang module 1)
+|       ├── 2.Manajemen_Kamar.md        <-- (Penjelasan tentang module 2)
+|       ├── 3.Tagihan_Pembayaran.md     <-- (Penjelasan tentang module 3)
+|       ├── 4.Tiket_Keluhan.md          <-- (Penjelasan tentang module 4)
+|       ├── 5.Notifikasi.md             <-- (Penjelasan tentang module 5)
 |
 ├── src/
-    ├── Hasil_code_pytest.png          <-- (Gambar hasil dari code yang di test)
+|   ├── Hasil_code_pytest.png          <-- (Gambar hasil dari code yang di test)
 |   ├── billing.py                     <-- (Kode implementasi fungsi D7)
 |   └── test_billing.py                <-- (Kode unit test menggunakan pytest D7)
 |
