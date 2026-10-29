@@ -6,7 +6,7 @@ Dokumen ini memuat 5 skenario utama dari aplikasi Kosku. Setiap skenario digamba
 * **Dikerjakan oleh:** Ryandra Yusuf
 * **Alasan Pentingnya Skenario:** Skenario ini sangat krusial karena mencatat arus kas utama operasional kos dan memvalidasi nominal transaksi secara sistem, sehingga memastikan tidak ada pembayaran yang terlewat atau kurang dari jumlah tagihan[cite: 4].
 
-![Sequence Diagram Pembayaran](assets/seq_pembayaran.png)
+![Sequence Diagram Autentikasi](https://github.com/RIOU-CODER/kosku/blob/main/docs/diagram/D4_Sequence_Diagram/Alur_Autentikasi.png)
 *(Catatan: Kode sumber PlantUML tersimpan di `assets/seq_pembayaran.puml`)*
 
 ## 2. Penyewa Mengajukan Keluhan Perbaikan
