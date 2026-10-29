@@ -50,12 +50,12 @@ Semua keluaran diagram, kasus uji, dan logika kode telah kami tinjau secara manu
 |
 ├── docs/
 |   ├── D1_Topic_Problem.md            <-- (Pernyataan masalah dan ruang lingkup)
-|   ├── D2_Module_Breakdown.md         <-- (Rincian 5 modul aplikasi)
-|   ├── D3_UseCase.md                  <-- (Halaman penampilkan tautan ke Use Case Diagram png & puml)
-|   ├── D4_Sequence.md                 <-- (Halaman penampilkan 5 tautan Sequence Diagram png & puml)
+|   ├── D2_Rician_Modul.md             <-- (Rincian 5 modul aplikasi)
+|   ├── D3_Use_case_Diagram.md         <-- (Halaman penampilkan tautan ke Use Case Diagram png & puml)
+|   ├── D4_Sequence_Diagram.md         <-- (Halaman penampilkan 5 tautan Sequence Diagram png & puml)
 |   ├── D6_Test_Cases.md               <-- (Tabel 10 kasus uji)
 |   └── diagram/                        
-|       └── D3_Use_Case
+|       └── D3_Use_Case_Diagram
 |           ├── usecase.jpeg                <-- (Gambar hasil D3)
 |           └── usecase.puml                <-- (Kode sumber D3)
 |       └── D4_Sequence_Diagram
